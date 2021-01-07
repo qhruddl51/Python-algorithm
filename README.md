@@ -1,9 +1,11 @@
 # Python-algorithm
 ✨ python algorithm study ✨
 
-## Reference ) 
+## Reference
 #### 박상길, "파이썬 알고리즘 인터뷰", 책만, 2020 
 #### Bohyoh Shibata 지음, 강민 옮김, "Do it! 자료구조와 함께 배우는 알고리즘 입문 파이썬편", 이지스퍼블리싱, 2020
+
+# <\br>
 
 - 문자열 조작
 - 배열
